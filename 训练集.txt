@@ -1,0 +1,366 @@
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1000.jpg 447,346,536,431,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1001.jpg 474,75,601,181,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1002.jpg 475,311,550,372,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1004.jpg 434,309,515,375,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1005.jpg 545,269,651,356,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1006.jpg 760,258,817,306,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1007.jpg 420,373,464,416,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1009.jpg 456,305,553,397,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1011.jpg 249,224,332,381,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1012.jpg 279,292,325,395,2 202,578,246,657,5 279,414,325,519,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1013.jpg 409,288,470,328,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1014.jpg 389,291,431,341,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1016.jpg 413,190,528,280,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1018.jpg 478,70,607,180,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1019.jpg 481,309,549,373,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1020.jpg 492,328,549,390,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1021.jpg 576,41,830,284,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1022.jpg 497,156,656,292,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1026.jpg 457,932,521,994,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1029.jpg 77,369,208,523,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1030.jpg 1651,735,1706,787,1 1785,753,1843,794,0 1721,859,1765,912,12 1825,906,1875,961,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1031.jpg 1766,805,1821,847,10 1786,855,1822,883,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1033.jpg 699,663,759,712,2 757,538,857,629,12 870,525,973,645,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1034.jpg 1846,627,1957,736,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1035.jpg 187,72,582,372,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1036.jpg 228,892,297,960,2 35,809,95,887,12 104,665,184,736,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1037.jpg 1715,905,1777,985,0 1075,516,1150,589,9 959,514,1024,576,2 1199,498,1290,589,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1039.jpg 277,1061,324,1100,5 276,1114,328,1158,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1040.jpg 1375,849,1448,925,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1041.jpg 1143,845,1183,877,1 1246,845,1297,876,0 1198,928,1226,952,12 1232,958,1265,991,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1042.jpg 926,787,986,836,2 990,884,1037,950,9 930,848,985,899,8 975,968,1023,1011,5 637,536,721,609,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1043.jpg 610,592,684,692,10 635,720,695,809,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1045.jpg 141,52,348,246,2 408,167,568,304,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1046.jpg 33,147,130,247,2 413,145,536,259,2 150,137,255,251,10 548,149,654,251,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1047.jpg 314,180,407,267,2 423,171,508,260,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1048.jpg 170,56,225,111,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1049.jpg 48,45,236,233,2
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/1051.jpg 1239,962,1269,990,2 1129,879,1163,914,10 1175,873,1209,916,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2000.jpg 759,160,811,204,1 937,12,994,61,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2001.jpg 767,195,815,246,1 945,53,1003,109,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2003.jpg 1093,226,1153,283,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2004.jpg 645,325,698,372,1 646,378,698,432,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2007.jpg 1130,133,1175,176,0 341,236,377,274,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2008.jpg 573,93,617,139,1 786,90,833,141,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2009.jpg 669,171,719,211,1 832,39,878,93,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2011.jpg 1060,178,1090,215,0 916,242,944,269,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2013.jpg 471,228,496,282,1 599,225,626,281,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2014.jpg 487,341,517,394,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2016.jpg 996,210,1032,247,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2017.jpg 451,105,483,143,1 637,102,673,142,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2019.jpg 321,266,343,291,1 377,203,401,229,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2022.jpg 697,179,729,216,1 833,61,882,105,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2024.jpg 118,233,160,284,7 900,246,936,293,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2025.jpg 878,229,911,269,1 1098,241,1132,277,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2026.jpg 79,247,121,284,7 897,239,935,284,1 1139,254,1182,293,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2027.jpg 145,215,181,251,7 778,221,813,260,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2028.jpg 993,213,1034,247,1 1185,132,1213,173,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2029.jpg 836,186,867,213,1 1040,182,1077,212,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2030.jpg 1573,992,1624,1040,0 1557,800,1626,856,12 1553,678,1619,729,5 1561,867,1621,918,8 1566,932,1626,983,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2031.jpg 1381,936,1417,976,1 1590,938,1644,992,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2032.jpg 106,845,208,985,0 121,700,206,818,1 4,314,68,476,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2033.jpg 1606,1007,1655,1058,1 1608,1069,1661,1123,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2034.jpg 899,745,935,794,12 1086,745,1137,798,8 1346,789,1386,825,1 1328,838,1390,874,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2035.jpg 1390,812,1459,863,8 846,976,893,1023,7 1353,983,1388,1027,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2036.jpg 128,534,215,660,7 1384,827,1426,869,0 1246,825,1286,867,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2037.jpg 1230,685,1293,763,12 1328,963,1381,1014,1 1324,1023,1379,1072,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2038.jpg 1823,804,1877,852,1 1944,816,1999,861,0 1823,947,1845,971,10 1821,979,1848,1009,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2040.jpg 1541,963,1595,1025,1 1533,1043,1599,1125,0 415,792,455,845,12 419,863,464,918,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2041.jpg 1016,876,1044,900,1 1124,870,1156,905,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2042.jpg 688,734,739,787,8 794,723,849,782,11 920,722,975,780,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2043.jpg 513,336,529,357,8 494,338,509,354,11 535,336,550,357,1 936,355,956,390,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2045.jpg 901,181,934,215,0 748,278,763,298,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2046.jpg 1112,360,1141,399,9 1111,307,1144,353,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2047.jpg 1937,936,1990,1023,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/2048.jpg 884,734,935,796,11 1766,1003,1870,1138,1 1761,1149,1866,1278,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3000.jpg 787,507,812,529,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3003.jpg 941,293,1002,341,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3005.jpg 1025,309,1066,348,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3006.jpg 905,367,1015,460,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3007.jpg 559,404,637,464,3 437,466,477,504,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3008.jpg 856,503,888,531,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3058.jpg 1297,945,1401,1020,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3059.jpg 155,1098,286,1249,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3061.jpg 179,987,259,1067,3 10,836,128,960,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3062.jpg 144,894,279,1016,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3063.jpg 233,885,310,938,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3065.jpg 556,119,581,142,3 506,175,520,189,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3066.jpg 1815,956,1890,1027,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3067.jpg 1799,1000,1850,1056,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3068.jpg 1824,954,1922,1028,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3069.jpg 1319,836,1441,938,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3070.jpg 144,876,201,938,3 150,965,204,1027,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3071.jpg 639,823,753,978,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3072.jpg 1379,912,1466,985,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3074.jpg 1353,947,1406,998,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3075.jpg 1715,927,1841,1063,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3078.jpg 644,587,775,778,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3079.jpg 1302,984,1330,1010,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3080.jpg 1737,414,1986,649,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3081.jpg 206,989,255,1056,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3083.jpg 1448,923,1561,1029,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3084.jpg 1277,903,1344,978,8 1217,863,1266,907,3 613,869,666,927,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3085.jpg 328,989,381,1034,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3086.jpg 1284,960,1361,1054,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3087.jpg 1695,905,1773,987,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3088.jpg 1557,665,1715,798,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3089.jpg 1628,892,1810,1052,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3090.jpg 1630,834,1750,929,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3092.jpg 8,134,576,689,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3093.jpg 1246,876,1293,925,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3095.jpg 1124,983,1204,1058,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3098.jpg 42,38,233,238,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3510.jpg 1255,943,1328,1018,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3511.jpg 435,923,526,1012,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3512.jpg 1550,1040,1595,1087,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3513.jpg 1464,954,1506,1005,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3514.jpg 1290,965,1341,1020,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3515.jpg 806,900,859,947,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3516.jpg 561,1029,619,1083,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3517.jpg 217,949,293,1005,4 1515,955,1555,994,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3519.jpg 1848,987,1908,1098,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3522.jpg 575,927,635,987,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3523.jpg 1726,769,1817,894,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3524.jpg 621,725,679,785,4 893,878,935,923,1 879,940,939,987,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3526.jpg 697,183,895,349,4 1873,898,1990,980,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3527.jpg 1828,952,1890,1014,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3529.jpg 10,785,64,849,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3530.jpg 537,952,597,1014,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3532.jpg 90,934,139,998,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3535.jpg 1719,854,1806,954,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3536.jpg 1219,925,1266,994,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3537.jpg 1266,976,1324,1056,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3538.jpg 1415,987,1468,1045,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3539.jpg 1246,932,1297,992,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3542.jpg 135,980,177,1025,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3543.jpg 603,983,639,1020,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3544.jpg 1752,949,1778,982,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3545.jpg 1528,716,1586,769,4 1921,933,1961,978,1 1925,992,1955,1025,0 1257,878,1283,911,12 1293,873,1321,914,5 1332,874,1366,910,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3547.jpg 697,963,724,1027,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3549.jpg 1395,912,1495,989,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3550.jpg 1990,939,2030,986,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3551.jpg 1684,963,1808,1083,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3552.jpg 1266,898,1326,954,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3555.jpg 1910,845,2008,965,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3556.jpg 1268,700,1361,807,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3557.jpg 321,920,408,1092,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3558.jpg 1690,843,1861,1076,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/3559.jpg 1166,962,1189,980,4
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4000.jpg 468,216,599,351,5 460,355,589,478,14 180,679,219,709,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4001.jpg 418,419,472,478,5 545,412,602,473,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4003.jpg 1091,327,1163,392,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4004.jpg 298,586,335,626,5 381,596,415,628,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4005.jpg 308,394,375,468,5 468,403,545,481,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4006.jpg 1056,305,1123,378,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4008.jpg 480,337,501,358,1 420,337,447,359,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4009.jpg 311,299,382,371,5 455,316,522,385,1 905,525,970,594,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4010.jpg 1032,311,1112,388,5 969,386,1000,425,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4012.jpg 502,392,567,458,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4013.jpg 824,423,853,455,9 867,372,906,410,8 867,327,904,368,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4014.jpg 390,231,461,308,5 550,236,637,318,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4015.jpg 363,288,401,326,12 359,329,402,368,8 360,371,400,409,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4016.jpg 334,416,443,520,5 566,418,668,532,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4017.jpg 1124,340,1170,384,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4018.jpg 452,216,481,245,5 520,212,550,244,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4019.jpg 1027,376,1071,427,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4020.jpg 183,231,360,416,5 380,236,550,426,11 564,248,739,431,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4021.jpg 1007,400,1061,453,5 181,451,236,495,7 821,401,872,443,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4022.jpg 352,345,423,411,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4023.jpg 203,289,269,420,12 197,430,266,564,8 194,576,256,711,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4024.jpg 130,299,204,484,5 279,278,361,468,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4025.jpg 318,147,356,229,1 252,163,289,241,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4026.jpg 18,316,53,398,5 61,322,93,408,12 101,325,128,413,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4027.jpg 826,434,879,490,5 951,435,998,490,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4028.jpg 389,409,449,469,5 941,512,998,575,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4029.jpg 291,750,311,801,5 335,752,353,804,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4030.jpg 302,464,348,563,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4031.jpg 641,488,679,528,5 736,485,780,536,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4032.jpg 497,441,528,470,1 464,438,492,471,11 428,438,458,472,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4033.jpg 612,43,661,91,8 680,41,728,82,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4034.jpg 157,603,228,718,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4035.jpg 178,439,209,506,5 239,458,265,507,1 363,661,392,723,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4039.jpg 425,386,485,449,8 492,386,546,447,5 553,390,609,444,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4040.jpg 306,391,377,469,5 470,406,550,487,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4041.jpg 1054,306,1135,388,5 987,380,1024,419,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4042.jpg 916,346,974,419,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4043.jpg 614,294,710,386,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4044.jpg 1105,113,1188,196,5 1103,210,1193,293,8 937,355,999,412,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4045.jpg 527,365,566,409,1 419,353,470,407,5 476,362,520,408,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4046.jpg 876,370,941,442,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4047.jpg 370,287,452,361,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4048.jpg 384,438,452,511,5 542,439,619,519,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4500.jpg 388,927,459,1012,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4501.jpg 359,794,413,845,6 548,778,626,838,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4502.jpg 368,793,428,859,6 555,777,610,837,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4503.jpg 1585,851,1613,887,1 1423,841,1458,878,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4504.jpg 438,953,475,990,6 1965,861,1993,898,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4506.jpg 1421,583,1518,674,6 1860,645,1928,715,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4507.jpg 742,915,781,952,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4508.jpg 717,952,768,990,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4509.jpg 1245,822,1293,854,6 1438,830,1481,875,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4510.jpg 1593,806,1632,847,7 1847,862,1870,892,5 1819,859,1843,894,8 1420,794,1464,838,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4511.jpg 532,841,576,886,6 702,830,749,877,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4512.jpg 1308,807,1362,854,6 1493,815,1540,860,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4513.jpg 1700,1245,1749,1303,7 1481,1258,1532,1309,6 1906,1120,1932,1152,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4514.jpg 450,830,474,867,7 1324,899,1348,929,7 1224,904,1254,928,6 375,817,410,865,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4515.jpg 1223,909,1264,947,6 1332,911,1370,937,7 1448,946,1464,965,8 1430,948,1445,967,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4516.jpg 1210,866,1242,897,8 1174,869,1205,894,11 621,860,656,896,6 723,853,765,896,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4517.jpg 625,447,691,577,6 781,628,821,698,7 214,833,239,872,11 271,842,290,879,5 246,836,264,881,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4518.jpg 1636,695,1706,768,6 1886,732,1936,801,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4519.jpg 1183,781,1240,839,6 1330,898,1372,952,7 1630,860,1664,886,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4520.jpg 91,647,174,730,6 538,558,630,662,1 1555,569,1634,649,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4523.jpg 580,854,613,888,6 740,846,778,885,7 1278,832,1321,875,1 1410,833,1456,876,0 1169,909,1188,935,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4524.jpg 307,910,337,936,9 922,821,972,863,6 1084,824,1130,873,1 1407,849,1445,886,8 1373,850,1402,884,11 1760,954,1790,982,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4525.jpg 1236,760,1291,824,6 1491,783,1542,839,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4527.jpg 870,845,915,890,6 1045,839,1093,886,7 1423,837,1468,879,1 1553,838,1599,879,0 1254,915,1275,940,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4528.jpg 548,868,578,899,6 639,863,676,897,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4529.jpg 1495,806,1538,859,6 1618,814,1659,858,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4530.jpg 430,626,487,709,7 181,494,270,615,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4531.jpg 1346,651,1427,739,6 1732,708,1792,783,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4534.jpg 911,947,951,983,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4535.jpg 1470,730,1542,798,6 1708,752,1757,813,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4536.jpg 1470,554,1583,673,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4537.jpg 1359,839,1400,886,6 1519,843,1562,881,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4538.jpg 1751,849,1791,890,6 1879,856,1910,894,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4539.jpg 1464,756,1523,818,6 1683,773,1745,828,7 1830,862,1860,900,8 1864,868,1887,899,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4543.jpg 1551,751,1608,818,6 1770,760,1828,821,7 1747,876,1768,907,11 1776,877,1796,908,8 1803,881,1824,911,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4545.jpg 506,571,559,662,7 323,456,400,577,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4546.jpg 65,703,122,772,6 282,648,357,728,7 1125,881,1155,918,8 1159,884,1185,913,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4547.jpg 427,796,454,837,6 547,824,566,858,7 1197,904,1223,926,6 1320,907,1339,929,7 1458,913,1473,929,8 1435,912,1452,929,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/4548.jpg 1779,654,1859,741,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5000.jpg 1250,872,1280,904,6 1398,873,1429,902,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5002.jpg 1583,1007,1628,1058,7 1947,977,1991,1032,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5003.jpg 2006,986,2036,1028,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5005.jpg 1323,758,1374,822,6 1579,783,1619,830,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5006.jpg 1358,835,1396,873,6 1507,840,1544,884,7 1667,898,1686,923,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5007.jpg 913,1071,940,1105,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5010.jpg 540,866,569,894,6 724,854,758,891,7 1229,873,1257,904,8 1263,1009,1284,1032,0
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5100.jpg 41,44,240,238,7
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5516.jpg 1782,975,1821,1020,8 1785,921,1825,968,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5517.jpg 1983,857,2024,902,12 1979,912,2021,958,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5518.jpg 1181,676,1263,757,10 1272,680,1351,760,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5519.jpg 1917,734,1956,789,8 1868,729,1912,787,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5520.jpg 1228,742,1293,810,8 1300,741,1364,808,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5521.jpg 1065,935,1088,960,8 1035,935,1057,960,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5522.jpg 1263,515,1373,616,8 1651,719,1706,788,0 1646,633,1706,704,1
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5524.jpg 1737,799,1789,856,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/5525.jpg 1454,920,1485,952,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6000.jpg 1461,640,1545,721,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6001.jpg 526,930,557,961,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6002.jpg 1324,327,1501,463,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6003.jpg 567,832,639,969,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6004.jpg 525,652,606,739,11 613,635,696,706,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6005.jpg 650,704,706,762,9 719,693,779,758,14 786,692,863,764,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6006.jpg 1647,518,1755,637,9 262,992,313,1056,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6007.jpg 1112,828,1165,872,9 974,779,1021,827,14 1108,879,1171,931,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6008.jpg 1868,789,1937,864,9 1867,869,1936,939,8 1875,948,1933,1021,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6009.jpg 1015,948,1041,984,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6010.jpg 1151,764,1216,819,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6012.jpg 1116,734,1181,804,10 1186,739,1247,802,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6013.jpg 1005,752,1062,802,9 1071,760,1119,811,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6014.jpg 1647,981,1728,1047,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6015.jpg 715,64,936,241,9 1247,928,1293,977,9 951,73,1174,262,10 1730,841,1874,994,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6017.jpg 996,679,1072,739,9 1089,686,1162,769,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6018.jpg 939,855,985,930,9 1944,761,1996,822,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6019.jpg 740,957,764,984,9 1214,956,1238,978,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6045.jpg 726,928,774,987,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6047.jpg 1133,487,1253,586,9 1270,495,1387,603,14 1398,506,1502,622,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6049.jpg 303,4,440,142,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6500.jpg 506,277,582,347,10 507,360,586,436,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6501.jpg 385,305,471,392,10 378,402,471,507,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6502.jpg 210,66,413,257,14 198,266,400,461,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6503.jpg 390,474,410,490,10 390,496,410,512,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6504.jpg 528,502,591,559,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6505.jpg 459,284,525,348,10 467,359,528,428,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6506.jpg 497,330,563,393,8 498,259,564,316,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6508.jpg 225,555,257,613,10 230,481,254,544,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6509.jpg 448,346,472,375,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6510.jpg 672,271,808,411,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6511.jpg 306,474,350,584,10 309,366,349,465,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6512.jpg 390,407,449,470,5 931,505,1001,580,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6513.jpg 617,297,767,485,10 607,107,763,293,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6514.jpg 149,268,215,408,8 152,421,209,562,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6515.jpg 178,373,231,513,10 167,240,234,371,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6516.jpg 201,514,274,706,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6517.jpg 250,391,285,482,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6518.jpg 506,298,570,375,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6519.jpg 326,305,366,341,10 340,349,378,381,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6522.jpg 847,758,940,843,10 257,720,334,794,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6523.jpg 1566,878,1600,915,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6524.jpg 281,1149,340,1228,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/6525.jpg 1336,862,1393,911,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7001.jpg 208,667,277,745,6 530,612,628,703,1 1303,732,1365,793,8 1237,733,1297,791,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7002.jpg 743,756,793,802,12 801,757,846,801,11 897,750,954,801,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7003.jpg 975,779,1021,830,14 1110,824,1168,876,9 1114,879,1168,935,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7004.jpg 1871,787,1933,866,9 1875,874,1931,940,8 1875,954,1930,1021,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7005.jpg 1830,678,1896,760,11 1905,690,1966,770,5 1973,708,2032,782,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7006.jpg 113,563,246,729,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7007.jpg 1464,754,1566,858,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7008.jpg 1184,1003,1233,1048,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7009.jpg 61,64,985,979,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7010.jpg 1664,27,1908,252,11 1926,100,2035,316,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7012.jpg 1301,276,1461,447,11 1493,307,1639,458,5 1670,349,1781,489,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7013.jpg 1821,380,2008,547,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7014.jpg 1602,887,1646,928,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7015.jpg 1202,652,1245,694,11
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7016.jpg 1152,785,1204,837,11 1213,783,1259,839,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7018.jpg 622,855,659,898,6 721,852,763,895,7 1174,866,1205,895,11 1209,866,1243,899,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7019.jpg 1059,871,1093,907,11 1103,865,1135,908,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7200.jpg 741,276,815,416,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7201.jpg 728,485,752,511,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7202.jpg 579,462,619,511,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7203.jpg 982,393,1039,446,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7204.jpg 310,473,343,508,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7205.jpg 425,374,473,416,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7207.jpg 938,312,965,345,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7208.jpg 183,441,216,474,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7209.jpg 895,327,927,354,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7211.jpg 362,290,401,327,12 363,330,400,367,8 363,370,399,406,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7212.jpg 608,446,664,516,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7216.jpg 898,452,933,487,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7217.jpg 513,298,620,410,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7243.jpg 1469,654,1533,708,2 1649,586,1730,670,12 1741,595,1814,676,8
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7244.jpg 1684,394,1841,556,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7245.jpg 1122,887,1155,920,12 1162,882,1188,921,8 1200,961,1236,992,1 516,839,557,887,7 312,856,354,902,6
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7246.jpg 9,16,1024,1024,12
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7300.jpg 535,256,582,313,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7301.jpg 498,332,566,406,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7302.jpg 466,335,490,366,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7303.jpg 442,248,473,282,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7304.jpg 470,367,587,477,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7305.jpg 586,356,615,388,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7306.jpg 749,357,786,386,3 765,395,800,427,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7307.jpg 615,352,646,388,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7308.jpg 552,392,568,408,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7309.jpg 777,276,815,312,3 789,317,833,355,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7311.jpg 432,304,483,361,13 577,415,618,452,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7312.jpg 750,395,773,418,13 733,362,765,389,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7313.jpg 502,391,557,448,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7314.jpg 913,547,956,594,13 894,496,952,545,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7315.jpg 856,314,930,389,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7316.jpg 1785,870,1894,963,3 1789,973,1882,1071,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7317.jpg 1237,935,1295,989,13 1238,880,1301,931,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7318.jpg 308,9,402,112,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7319.jpg 137,186,573,630,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7320.jpg 56,49,242,243,13
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7400.jpg 1167,130,1215,168,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7401.jpg 465,215,594,346,5 449,351,607,481,14 166,670,216,711,3
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7402.jpg 380,411,556,580,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7403.jpg 421,458,483,521,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7404.jpg 184,59,425,251,14 192,257,412,464,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7405.jpg 305,315,562,528,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7407.jpg 445,375,531,452,14 323,479,370,523,9
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7409.jpg 488,300,550,362,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7410.jpg 44,254,303,548,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7436.jpg 1527,999,1615,1064,14 1527,843,1614,915,10 1534,922,1605,990,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7437.jpg 1825,822,1892,896,5 1822,742,1904,818,10 1823,906,1901,968,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7438.jpg 1523,443,1648,577,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7439.jpg 1600,880,1740,1018,14 1616,616,1740,754,10
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7440.jpg 1605,622,1755,743,10 1617,763,1752,899,5 1606,914,1778,1055,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7441.jpg 1762,916,1814,973,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7442.jpg 1304,890,1374,961,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7443.jpg 410,166,508,258,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7444.jpg 72,73,209,214,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7445.jpg 189,791,316,916,14 194,946,307,1060,5
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7448.jpg 175,74,281,165,14
+E:\mycode\yolov6_-traffic_signs-master\VOCdevkit/VOC2007/JPEGImages/7449.jpg 47,45,235,234,14
